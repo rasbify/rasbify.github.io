@@ -1,4 +1,3 @@
-// https://www.dofusbook.net/fr/outils/skinator?classId=3&gender=0&head=0&orientation=2&color1=f3bc5e&color2=ff0000&color3=65ff00&color4=ff0000&color5=ff0000
 // https://fr.touch.dofapi.fr/explorer/
 
 var skinator_url = "https://www.dofusbook.net/fr/outils/skinator";
